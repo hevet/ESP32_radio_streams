@@ -13,9 +13,9 @@ Radio 357                 Bank 1 Stacja 12  http://n09a-eu.rcs.revma.com/ye5kghk
 Radio Nowy Swiat          Bank 1 Stacja 13  http://stream.rcs.revma.com/ypqt40u0x1zuv.mp3
 Eska Slask                Bank 1 Stacja 14  https://waw.ic.smcdn.pl/2220-1.mp3
 Mega Radio                Bank 1 Stacja 15  https://n36a-eu.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABi8TMBRwAZDVgPlgQkc9rkQ
-Program 1 Polskiego Radia Bank 1 Stacja 16  http://stream3.polskieradio.pl:8904
-Program 3 Polskiego Radia Bank 1 Stacja 17  http://mp3.polskieradio.pl:8904
-Program 4 Polskiego Radia Bank 1 Stacja 18  http://stream3.polskieradio.pl:8906
+PR-1 Polskiego Radia      Bank 1 Stacja 16  http://stream3.polskieradio.pl:8904
+PR-3 Polskiego Radia      Bank 1 Stacja 17  http://mp3.polskieradio.pl:8904
+PR-4 Polskiego Radia      Bank 1 Stacja 18  http://stream3.polskieradio.pl:8906
 181.fm Country 80's       Bank 1 Stacja 19  http://listen.181fm.com:8134/
 181.fm Country 90's       Bank 1 Stacja 20  http://listen.181fm.com/181-90scountry_128k.mp3?noPreRoll=true#181.FM
 181.fm - Highway 181      Bank 1 Stacja 21  https://listen.181fm.com/181-highway_128k.mp3
@@ -93,3 +93,4 @@ Radio Classic Rock Planet Bank 1 Stacja 92  http://us5.internet-radio.com:8279/
 Radio The Big 80s Station Bank 1 Stacja 93  http://178.32.62.167:8545/stream
 Soundtracks Radio         Bank 1 Stacja 94  http://uk5.internet-radio.com:8256/
 The Hit Man Radio         Bank 1 Stacja 95  http://uk2.internet-radio.com:8121/
+
