@@ -29,7 +29,7 @@ Radio Nuta                Bank 1 Stacja 28  https://stream.rcs.revma.com/0004teh
 RMF PRL                   Bank 1 Stacja 29  http://195.150.20.7/rmf_prl
 RMF Maxxx                 Bank 1 Stacja 30  https://rs6-krk2.rmfstream.pl/rmf_maxxx
 Chilli Zet                Bank 1 Stacja 31  https://ch01.cdn.eurozet.pl/chi-net.mp3
-Jazz 24 HQ    	          Bank 1 Stacja 32  https://live.amperwave.net/direct/ppm-jazz24aac256-ibc1
+Jazz 24 HQ                Bank 1 Stacja 32  https://live.amperwave.net/direct/ppm-jazz24aac256-ibc1
 Jazz 24                   Bank 1 Stacja 33  https://live.amperwave.net/direct/ppm-jazz24mp3-ibc1
 Radio Vox Disco 90        Bank 1 Stacja 34  https://waw.ic.smcdn.pl/6170-1.mp3
 Radiofonia                Bank 1 Stacja 35  http://195.150.20.7/radiofonia
