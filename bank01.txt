@@ -16,7 +16,7 @@ Mega Radio                Bank 1 Stacja 15  https://n36a-eu.rcs.revma.com/q18ty3
 PR-1 Polskiego Radia      Bank 1 Stacja 16  http://stream3.polskieradio.pl:8950
 PR-3 Polskiego Radia      Bank 1 Stacja 17  http://stream3.polskieradio.pl:8954
 PR-4 Polskiego Radia      Bank 1 Stacja 18  http://stream3.polskieradio.pl:8906
-Meloradio	          Bank 1 Stacja 19  https://n-11-28.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5
+Meloradio                 Bank 1 Stacja 19  https://n-11-28.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5
 181.fm Country 80's       Bank 1 Stacja 20  http://listen.181fm.com:8134
 181.fm Country 90's       Bank 1 Stacja 21  http://listen.181fm.com/181-90scountry_128k.mp3?noPreRoll=true#181.FM
 181.fm - Highway 181      Bank 1 Stacja 22  https://listen.181fm.com/181-highway_128k.mp3
