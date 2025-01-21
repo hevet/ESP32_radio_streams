@@ -9,7 +9,7 @@ Radio Plus                Bank 1 Stacja 8   https://ic2.smcdn.pl/4270-1.mp3
 Radio Pogoda              Bank 1 Stacja 9   http://stream10.radioagora.pl:80/tuba144-1.mp3
 Radio 7                   Bank 1 Stacja 10  http://stream.radio7.pl:8000
 RMF Classic               Bank 1 Stacja 11  http://31.192.216.3/rmf_classic
-Radio 357                 Bank 1 Stacja 12  https://n42a-eu.rcs.revma.com/ye5kghkgcm0uv.aac
+Radio 357                 Bank 1 Stacja 12  https://stream.rcs.revma.com/an1ugyygzk8uv
 Radio Nowy Swiat          Bank 1 Stacja 13  http://stream.rcs.revma.com/ypqt40u0x1zuv.mp3
 Eska Slask                Bank 1 Stacja 14  https://waw.ic.smcdn.pl/2220-1.mp3
 Mega Radio                Bank 1 Stacja 15  https://n36a-eu.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABi8TMBRwAZDVgPlgQkc9rkQ
