@@ -18,8 +18,8 @@ PR-2 Polskiego Radia      Bank 1 Stacja 17  http://stream3.polskieradio.pl:8952
 PR-3 Polskiego Radia      Bank 1 Stacja 18  http://stream3.polskieradio.pl:8954
 PR-4 Polskiego Radia      Bank 1 Stacja 19  http://stream3.polskieradio.pl:8906
 Meloradio Katowice        Bank 1 Stacja 20  https://ml.cdn.eurozet.pl/mel-ktw.mp3
-181.fm Country 80's       Bank 1 Stacja 21  http://listen.181fm.com:8134
-181.fm Country 90's       Bank 1 Stacja 22  http://listen.181fm.com/181-90scountry_128k.mp3?noPreRoll=true#181.FM
+181.fm Country 80's       Bank 1 Stacja 21  https://listen.181fm.com/181-80scountry_128k.mp3?noPreRoll=true
+181.fm Country 90's       Bank 1 Stacja 22  https://listen.181fm.com/181-90scountry_128k.mp3?noPreRoll=true
 181.fm - Highway 181      Bank 1 Stacja 23  https://listen.181fm.com/181-highway_128k.mp3
 TOK FM                    Bank 1 Stacja 24  http://radiostream.pl/tuba10-1.mp3
 Vox FM                    Bank 1 Stacja 25  https://waw.ic.smcdn.pl/3990-1.mp3
