@@ -11,10 +11,10 @@ Radio 7                   Bank 1 Stacja 10  http://stream.radio7.pl:8000
 RMF Classic               Bank 1 Stacja 11  http://31.192.216.3/rmf_classic
 Radio 357                 Bank 1 Stacja 12  http://n09a-eu.rcs.revma.com/ye5kghkgcm0uv.aac
 Radio Nowy Swiat          Bank 1 Stacja 13  http://stream.rcs.revma.com/ypqt40u0x1zuv.mp3
-Radio ESKA Slask          Bank 1 Stacja 14  https://waw.ic.smcdn.pl/2220-1.mp3
-Radio ESKA Rock           Bank 1 Stacja 15  http://ic1.smcdn.pl/5380-1.mp3
+Radio Eska Slask          Bank 1 Stacja 14  https://waw.ic.smcdn.pl/2220-1.mp3
+Radio Eska Rock           Bank 1 Stacja 15  http://ic1.smcdn.pl/5380-1.mp3
 Mega Radio                Bank 1 Stacja 16  https://n36a-eu.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABi8TMBRwAZDVgPlgQkc9rkQ
-Rockserwis.fm             Bank 1 Stacja 17  https://stream.rcs.revma.com/cvswvmyewzzuv
+Rockserwis.fm             Bank 1 Stacja 17  http://stream9.nadaje.com:8002/live
 Radio Nuta                Bank 1 Stacja 18  https://stream.rcs.revma.com/0004tehdxzzuv
 Meloradio Slask           Bank 1 Stacja 19  https://n-11-28.dcs.redcdn.pl/sc/o2/Eurozet/live/meloradio.livx?audio=5
 PR-1 Polskiego Radia      Bank 1 Stacja 20  http://mp3.polskieradio.pl:8900/;
