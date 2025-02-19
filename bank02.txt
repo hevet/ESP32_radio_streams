@@ -49,8 +49,8 @@ Radio Parada              Bank 2 Stacja 48  http://stream4.nadaje.com:15274/live
 Radio 7                   Bank 2 Stacja 49  http://stream.radio7.pl:8000
 Doxa FM                   Bank 2 Stacja 50  http://shot.inten.pl:10000/
 Rekord Radio              Bank 2 Stacja 51  http://stream4.nadaje.com:8308/ostrowiec
-POP Radio                 Bank 2 Stacja 52  http://62.133.128.22:8000/relay
-Radio Fara                Bank 2 Stacja 53  http://stream1.popradio.pl:9000/
+POP Radio                 Bank 2 Stacja 52  http://stream1.popradio.pl:9000/
+Radio Fara                Bank 2 Stacja 53  http://62.133.128.22:8000/relay
 Nasze Radio               Bank 2 Stacja 54  https://online.nasze.fm:8443/stream
 Radio Energy 2000         Bank 2 Stacja 55  http://energy2000.radioparty.pl:8005/
 Radio RAM Wroclaw         Bank 2 Stacja 56  http://stream4.nadaje.com:9220/ram.m3u
@@ -77,22 +77,22 @@ InterStacja Oldies        Bank 2 Stacja 76  http://4stream.pl:18290
 Mbox                      Bank 2 Stacja 77  http://panel.radiombox.pl/radio/8000/RadioMbox320
 Mbox Club                 Bank 2 Stacja 78  http://panel.radiombox.pl/radio/8070/Club320kbps
 Mbox Disco Polo           Bank 2 Stacja 79  http://panel.radiombox.pl/radio/8030/DiscoPolo320kbps
-Mbox Gold Hits            Bank 2 Stacja 80  http://4stream.pl:18274
-Mbox Rock                 Bank 2 Stacja 81  http://4stream.pl:18180
-Mirage Italo Dance        Bank 2 Stacja 82  http://4stream.pl:18410
-Mirage Prywatka           Bank 2 Stacja 83  http://4stream.pl:18290
-Mirage Space              Bank 2 Stacja 84  http://panel.radiombox.pl/radio/8000/RadioMbox320
-Muzyczne Radio TOP20      Bank 2 Stacja 85  http://panel.radiombox.pl/radio/8070/Club320kbps
-Radio Nedds24.pl          Bank 2 Stacja 86  http://panel.radiombox.pl/radio/8030/DiscoPolo320kbps
-Radio Nedds24 Club        Bank 2 Stacja 87  http://panel.radiombox.pl/radio/8040/GoldHits320kbps
-Mbox Rock                 Bank 2 Stacja 88  http://panel.radiombox.pl/radio/8090/Rock320kbps
-Mirage Italo Dance        Bank 2 Stacja 89  https://ssl-1.radiohost.pl:9569
-Mirage Prywatka           Bank 2 Stacja 90  https://ssl-1.radiohost.pl:7214
-Mirage Space              Bank 2 Stacja 91  https://ssl-1.radiohost.pl:9563
-Muzyczne Radio TOP20      Bank 2 Stacja 92  https://stream2.nadaje.com:8017
-Radio Nedds24.pl          Bank 2 Stacja 93  http://s1.nedds24.pl:8100/radio.mp3
-Radio Nedds24 Club        Bank 2 Stacja 94  http://s1.nedds24.pl:8110/radio.mp3
-Radio Nedds24 Disco       Bank 2 Stacja 95  http://s1.nedds24.pl:8120/radio.mp3
-Radio Italo4you           Bank 2 Stacja 96  http://s0.radiohost.pl:8018/stream
-Italo Dance               Bank 2 Stacja 97  http://radio.italodance.pl:7694
-Italodance Neo80s         Bank 2 Stacja 98  http://neo80s.italodance.pl:7750
+Mbox Gold Hits            Bank 2 Stacja 80  http://panel.radiombox.pl/radio/8040/GoldHits320kbps
+Mbox Rock                 Bank 2 Stacja 81  http://panel.radiombox.pl/radio/8090/Rock320kbps
+Mirage Italo Dance        Bank 2 Stacja 82  https://ssl-1.radiohost.pl:9569
+Mirage Prywatka           Bank 2 Stacja 83  https://ssl-1.radiohost.pl:7214
+Mirage Space              Bank 2 Stacja 84  https://ssl-1.radiohost.pl:9563
+Muzyczne Radio TOP20      Bank 2 Stacja 85  https://stream2.nadaje.com:8017
+Radio Nedds24.pl          Bank 2 Stacja 86  http://s1.nedds24.pl:8100/radio.mp3
+Radio Nedds24 Club        Bank 2 Stacja 87  http://s1.nedds24.pl:8110/radio.mp3
+Radio Nedds24 Disco       Bank 2 Stacja 88  http://s1.nedds24.pl:8120/radio.mp3
+Radio Italo4you           Bank 2 Stacja 89  http://s0.radiohost.pl:8018/stream
+Italo Dance               Bank 2 Stacja 90  http://radio.italodance.pl:7694
+Italodance Neo80s         Bank 2 Stacja 91  http://neo80s.italodance.pl:7750
+Radio Muza 80             Bank 2 Stacja 92  http://91.232.4.33:9011/stream
+Radio i                   Bank 2 Stacja 93  http://185.127.121.97:8005/;stream/1
+Radio Dzwiek              Bank 2 Stacja 94  http://s3.slotex.pl:7408/;
+Czech Radio CRo Vltava    Bank 2 Stacja 95  http://amp.cesnet.cz:8000/cro3-256.ogg
+Czech Radio CRo D-dur     Bank 2 Stacja 96  http://amp.cesnet.cz:8000/cro-d-dur-256.ogg
+Czech Radio CRo Jazz      Bank 2 Stacja 97  http://amp.cesnet.cz:8000/cro-jazz-256.ogg
+Czech Radio CRo Wave      Bank 2 Stacja 98  http://amp.cesnet.cz:8000/cro-radio-wave-256.ogg
