@@ -77,8 +77,8 @@ Radio 80s Forever Radio   Bank 1 Stacja 76  https://premium.shoutcastsolutions.c
 Radio 80s80s ItaloDisco   Bank 1 Stacja 77  https://streams.80s80s.de/italohits/mp3-192
 Radio 80s80s Love         Bank 1 Stacja 78  https://streams.80s80s.de/love/mp3-192/streams 
 Radio Italo Disco         Bank 1 Stacja 79  https://broadcast.miami/proxy/italodisco?mp=/stream2/;
-Radio Disco               Bank 1 Stacja 80  https://stream.laut.fm/vinyl-maxi-fm
-Radio Vinyl Maxi FM       Bank 1 Stacja 81  https://stream.rcs.revma.com/cvswvmyewzzuv
+Radio Disco               Bank 1 Stacja 80  https://stream.rcs.revma.com/cvswvmyewzzuv
+Radio Vinyl Maxi FM       Bank 1 Stacja 81  https://stream.laut.fm/vinyl-maxi-fm
 Intense Radio Dance       Bank 1 Stacja 82  http://secure.live-streams.nl/flac.ogg
 Radio Paradise Mellow     Bank 1 Stacja 83  http://stream.radioparadise.com/mellow-flac
 Radio Paradise Rock Mix   Bank 1 Stacja 84  http://stream.radioparadise.com/rock-flac
