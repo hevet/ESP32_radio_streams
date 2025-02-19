@@ -52,8 +52,8 @@ Radio Ziomki              Bank 16 Stacja 51  http://4stream.pl:18068
 Twoja Polska Stacja       Bank 16 Stacja 52  http://sluchaj.twojapolskastacja.pl:8068
 W Nienagannym Stylu       Bank 16 Stacja 53  http://51.255.8.139:8810/stream
 Wasze Radio FM            Bank 16 Stacja 54  https://sluchaj.link:5443/wasze
-
-
+Yanosik 64k               Bank 16 Stacja 55  https://stream.rcs.revma.com/24yk9b7ebhuvv
+Yanosik 128k              Bank 16 Stacja 56  https://stream.rcs.revma.com/7vhveccrnquvv
 
 
 
