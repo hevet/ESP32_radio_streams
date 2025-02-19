@@ -55,7 +55,7 @@ RMF Maxxx Hop-Bec         Bank 5 Stacja 54  http://195.150.20.7/rmf_hop_bec
 RMF Michael Jackson       Bank 5 Stacja 55  http://195.150.20.7/rmf_Michael_Jackson
 RMF Muzyka Filmowa        Bank 5 Stacja 56  http://195.150.20.7/rmf_muzyka_filmowa
 RMF Muzyka Klasyczna      Bank 5 Stacja 57  http://195.150.20.7/rmf_muzyka_klasyczna
-RMF Naj Polskie Przeboje  Bank 5 Stacja 58  http://195.150.20.7/npp_rmf_on
+RMF Naj PolskiePrzeboje   Bank 5 Stacja 58  http://195.150.20.7/npp_rmf_on
 RMF Niezapomniane Melodie Bank 5 Stacja 59  http://195.150.20.7/rmf_niezapomniane_melodie
 RMF Party                 Bank 5 Stacja 60  http://195.150.20.7/rmf_party
 RMF Piosenka Filmowa      Bank 5 Stacja 61  http://195.150.20.7/rmf_piosenka_filmowa
@@ -91,4 +91,3 @@ RMF Top 2021 Disco Polo   Bank 5 Stacja 90  http://195.150.20.7/rmf_top2
 RMF Trend Sounds          Bank 5 Stacja 91  http://195.150.20.7/rmf_trend_sounds
 RMF W Pracy               Bank 5 Stacja 92  http://195.150.20.7/rmf_w_pracy
 RMF Wakacyjne Top 100     Bank 5 Stacja 93  http://195.150.20.7/rmf_top4
-
