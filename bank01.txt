@@ -29,14 +29,14 @@ Rock Radio Polska         Bank 1 Stacja 25  https://radiostream.pl/tuba9006-1.mp
 TOK FM                    Bank 1 Stacja 29  http://radiostream.pl/tuba10-1.mp3
 Vox FM                    Bank 1 Stacja 30  https://waw.ic.smcdn.pl/3990-1.mp3
 Radio Chillizet           Bank 1 Stacja 31  https://ch01.cdn.eurozet.pl/chi-net.mp3
-Chillizet Covers          Bank 1 Stacja 32  https://ch03.cdn.eurozet.pl/CHICOV.mp3
-Chillizet Jazz            Bank 1 Stacja 33  https://ch02.cdn.eurozet.pl/CHIJAZ.mp3
+Chillizet Soul            Bank 1 Stacja 32  https://zt02.cdn.eurozet.pl/CHISOU.mp3
+Chillizet World Jazz      Bank 1 Stacja 33  https://ch.cdn.eurozet.pl/CHIWJZ.mp3
 Chillizet Salon Polski    Bank 1 Stacja 34  https://ch02.cdn.eurozet.pl/CHIPOL.mp3
-Chillizet Biega           Bank 1 Stacja 35  https://ch03.cdn.eurozet.pl/CHIRUN.mp3
-Chillizet Soul            Bank 1 Stacja 36  https://zt02.cdn.eurozet.pl/CHISOU.mp3
-Chillizet World Jazz      Bank 1 Stacja 37  https://ch.cdn.eurozet.pl/CHIWJZ.mp3
-Muzyczne Radio            Bank 1 Stacja 38  https://stream.rcs.revma.com/gzwc1xcq042vv
-Yanosik 128k              Bank 1 Stacja 39  https://stream.rcs.revma.com/7vhveccrnquvv
+Radio Yanosik             Bank 1 Stacja 35  https://stream.rcs.revma.com/7vhveccrnquvv
+Radio Yanosik ROCK        Bank 1 Stacja 36  https://n15a-eu.rcs.revma.com/whxxccsdp7uvv
+Radio Yanosik EDM         Bank 1 Stacja 37  https://n11a-eu.rcs.revma.com/s4exa6c6y33vv
+Radio Yanosik LOVE        Bank 1 Stacja 38  https://n14a-eu.rcs.revma.com/8fqn8rr6ktuvv
+Muzyczne Radio            Bank 1 Stacja 39  https://stream.rcs.revma.com/gzwc1xcq042vv
 RMF Maxxx                 Bank 1 Stacja 40  https://rs6-krk2.rmfstream.pl/rmf_maxxx
 Radio RMF 24              Bank 1 Stacja 41  http://195.150.20.7/rmf_24
 Polskie Radio Las         Bank 1 Stacja 42  http://stream3.polskieradio.pl:8528
@@ -93,7 +93,7 @@ Radio THE RAVE ZONE 24h   Bank 1 Stacja 92  http://stream-vie.radio-zone.ru:8000
 Miami Paradise Radio      Bank 1 Stacja 93  https://halo.streamerr.co/radio/8140/radio.mp3
 Dance Wave                Bank 1 Stacja 94  http://stream.dancewave.online:8080/dance.ogg
 Dance Wave Retro          Bank 1 Stacja 95  http://stream.dancewave.online:8080/retrodance.ogg
-
-
-
-
+Nature Radio Sleep        Bank 1 Stacja 96  https://stream.zeno.fm/kju0gtjeei3uv
+Nature Radio RAIN         Bank 1 Stacja 97  https://maggie.torontocast.com:8108/;
+Nature white noise        Bank 1 Stacja 98  https://stream.zeno.fm/vg54x7r1exhvv
+247 - Nature Radio        Bank 1 Stacja 99  https://ec3.yesstreaming.net:3545/stream

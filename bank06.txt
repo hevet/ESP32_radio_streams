@@ -84,15 +84,15 @@ Radio Jazz FM             Bank 6 Stacja 45  https://radiojazz.out.airtime.pro/ra
 113.fm - Route 66         Bank 6 Stacja 84  https://113fm-edge2.cdnstream.com/1755_128
 113.fm - Salsa            Bank 6 Stacja 85  https://113fm-edge2.cdnstream.com/1798_128
 113.fm - Star USA         Bank 6 Stacja 86  https://113fm-edge2.cdnstream.com/1727_128
-Radio Party               Bank 6 Stacja 87  http://s4.radioparty.pl:8000/rp.mp3
-Radio Party-Djmixes       Bank 6 Stacja 88  http://djmixes.radioparty.pl:8035
-Radio Party-Energy 2000   Bank 6 Stacja 89  http://energy2000.radioparty.pl:8005
-Radio Party-House         Bank 6 Stacja 90  http://house.radioparty.pl:8010
-Radio Party-Trance        Bank 6 Stacja 91  http://trance.radioparty.pl:8015
-Radio Party-Vocal Tra     Bank 6 Stacja 92  http://vocal.trance.radioparty.pl:8025
-Radio Pasja               Bank 6 Stacja 93  http://91.232.4.33:8049/stream
-Radio Pasja-Chillout      Bank 6 Stacja 94  http://91.232.4.33:8108/stream
-Radio Pasja-Dance         Bank 6 Stacja 95  http://91.232.4.33:9466/stream
-Radio Pasja-Klubowa       Bank 6 Stacja 96  http://91.232.4.33:9460/stream
-Radio Pasja-Pop           Bank 6 Stacja 97  http://91.232.4.33:8084/stream
-Radio Pasja-Relaks        Bank 6 Stacja 98  http://91.232.4.33:8102/stream
+Nature Radio Sleep        Bank 6 Stacja 87  https://stream.zeno.fm/kju0gtjeei3uv
+Nature Radio RAIN         Bank 6 Stacja 88  https://maggie.torontocast.com:8108/;
+Nature white noise        Bank 6 Stacja 89  https://stream.zeno.fm/vg54x7r1exhvv
+247 - Nature Radio        Bank 6 Stacja 90  https://ec3.yesstreaming.net:3545/stream
+Ambi Nature Radio         Bank 6 Stacja 91  https://nature-rex.radioca.st/stream
+Calm - Ocean              Bank 6 Stacja 92  https://drive.uber.radio/uber/calmocean/icecast.audio
+Klassik Radio - Nature    Bank 6 Stacja 93  https://stream.klassikradio.de/nature/mp3-192
+myNoise Radio - Ocean WaveBank 6 Stacja 94  https://oceanwaves-mynoise.radioca.st/autodj
+myNoise Radio - Pure NaturBank 6 Stacja 95  https://purenature-mynoise.radioca.st/autodj
+myNoise Radio - Rainy Day Bank 6 Stacja 96  https://rainyday-mynoise.radioca.st/stream
+Positively - Birdsong     Bank 6 Stacja 97  https://drive.uber.radio/uber/calmbirdsong/icecast.audio
+247 Birdsong Radio        Bank 6 Stacja 98  https://2.mystreaming.net/uber/calmbirdsong/icecast.audio
