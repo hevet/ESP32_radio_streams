@@ -33,7 +33,7 @@ Chillizet Soul            Bank 1 Stacja 32  https://zt02.cdn.eurozet.pl/CHISOU.m
 Chillizet World Jazz      Bank 1 Stacja 33  https://ch.cdn.eurozet.pl/CHIWJZ.mp3
 Chillizet Salon Polski    Bank 1 Stacja 34  https://ch02.cdn.eurozet.pl/CHIPOL.mp3
 Radio Yanosik             Bank 1 Stacja 35  https://stream.rcs.revma.com/7vhveccrnquvv
-Radio Yanosik ROCK        Bank 1 Stacja 36  https://n15a-eu.rcs.revma.com/whxxccsdp7uvv
+Radio Yanosik ROCK        Bank 1 Stacja 36  https://n15a-eu.rcs.revma.com/whxxccsdp7uvv
 Radio Yanosik EDM         Bank 1 Stacja 37  https://n11a-eu.rcs.revma.com/s4exa6c6y33vv
 Radio Yanosik LOVE        Bank 1 Stacja 38  https://n14a-eu.rcs.revma.com/8fqn8rr6ktuvv
 Muzyczne Radio            Bank 1 Stacja 39  https://stream.rcs.revma.com/gzwc1xcq042vv
