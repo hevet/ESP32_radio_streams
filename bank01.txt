@@ -32,7 +32,7 @@ Radio Chillizet           Bank 1 Stacja 31  https://ch01.cdn.eurozet.pl/chi-net.
 Chillizet Soul            Bank 1 Stacja 32  https://zt02.cdn.eurozet.pl/CHISOU.mp3
 Chillizet World Jazz      Bank 1 Stacja 33  https://ch.cdn.eurozet.pl/CHIWJZ.mp3
 Chillizet Salon Polski    Bank 1 Stacja 34  https://ch02.cdn.eurozet.pl/CHIPOL.mp3
-Radio Yanosik             Bank 1 Stacja 35  https://stream.rcs.revma.com/7vhveccrnquvv
+Radio Yanosik             Bank 1 Stacja 35  http://n25a-eu.rcs.revma.com:80/sn11544ebhuvv
 Radio Yanosik ROCK        Bank 1 Stacja 36  https://n15a-eu.rcs.revma.com/whxxccsdp7uvv
 Radio Yanosik EDM         Bank 1 Stacja 37  https://n11a-eu.rcs.revma.com/s4exa6c6y33vv
 Radio Yanosik LOVE        Bank 1 Stacja 38  https://n14a-eu.rcs.revma.com/8fqn8rr6ktuvv
@@ -93,7 +93,7 @@ Radio THE RAVE ZONE 24h   Bank 1 Stacja 92  http://stream-vie.radio-zone.ru:8000
 Miami Paradise Radio      Bank 1 Stacja 93  https://halo.streamerr.co/radio/8140/radio.mp3
 Dance Wave                Bank 1 Stacja 94  http://stream.dancewave.online:8080/dance.ogg
 Dance Wave Retro          Bank 1 Stacja 95  http://stream.dancewave.online:8080/retrodance.ogg
-Nature Radio Sleep        Bank 1 Stacja 96  https://stream.zeno.fm/kju0gtjeei3uv
-Nature Radio RAIN         Bank 1 Stacja 97  https://maggie.torontocast.com:8108/;
-Nature white noise        Bank 1 Stacja 98  https://stream.zeno.fm/vg54x7r1exhvv
-247 - Nature Radio        Bank 1 Stacja 99  https://ec3.yesstreaming.net:3545/stream
+ABC Country               Bank 1 Stacja 96  http://live-radio01.mediahubaustralia.com/CTRW/mp3/
+ABC Jazz                  Bank 1 Stacja 97  http://live-radio01.mediahubaustralia.com/JAZW/mp3/
+
+
