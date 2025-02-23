@@ -14,10 +14,10 @@ Pro-Radio Zgierz          Bank 3 Stacja 13  http://radiointernetowe.net:7802
 Radio Andrychow           Bank 3 Stacja 14  http://s1.slotex.pl:7424  
 Radio Bialystok           Bank 3 Stacja 15  http://stream4.nadaje.com:15476/radiobialystok
 Radio Bielsko             Bank 3 Stacja 16  https://stream.rcs.revma.com/062uq3z3kwzuv  
-Radio Bielsko             Bank 3 Stacja 17  http://stream.nadaje.com:8044/
+Radio Bielsko             Bank 3 Stacja 17  https://stream.rcs.revma.com/062uq3z3kwzuv  
 Radio Bogoria             Bank 3 Stacja 18  http://s6.radiohost.pl:8888
 Radio Centrum Kalisz      Bank 3 Stacja 19  http://shot2.inten.pl:8888/rcfm.mp3  
-Radio Centrum Lublin      Bank 3 Stacja 20  https://stream12.hosterion.pl/stream/akademickieradiocentrum
+Radio Centrum Lublin      Bank 3 Stacja 20  http://radio.centrum.fm/live
 Radio Centrum Rzeszow     Bank 3 Stacja 21  http://62.93.41.27:8000  
 Radio Dla Ciebie Plock    Bank 3 Stacja 22  http://stream4.nadaje.com:14006/plock  
 Radio Elbag               Bank 3 Stacja 23  http://n05.radiojar.com/q87xmtvrrg8uv  
