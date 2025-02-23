@@ -22,7 +22,7 @@ PR-2 Polskiego Radia      Bank 1 Stacja 21  http://stream3.polskieradio.pl:8952
 PR-3 Polskiego Radia      Bank 1 Stacja 22  http://mp3.polskieradio.pl:8904/;
 PR-4 Polskiego Radia      Bank 1 Stacja 23  http://stream3.polskieradio.pl:8906
 PR24 Polskie Radia        Bank 1 Stacja 24  http://mp3.polskieradio.pl:8080/;
-Polskie Radio Kierowcow   Bank 1 Stacja 25  http://mp3.polskieradio.pl:8968/;
+Polskie Radio Kierowcow   Bank 1 Stacja 25  https://stream10.polskieradio.pl/prk/rdk.sdp/media_w1500334660_7737.aac
 Rock Radio Polska         Bank 1 Stacja 26  https://radiostream.pl/tuba9006-1.mp3
 181.fm Country 80's       Bank 1 Stacja 27  http://listen.181fm.com:8134
 181.fm Country 90's       Bank 1 Stacja 28  http://listen.181fm.com/181-90scountry_128k.mp3?noPreRoll=true#181.FM
