@@ -42,7 +42,7 @@ Radio RMF 24              Bank 1 Stacja 41  http://195.150.20.7/rmf_24
 Polskie Radio Las         Bank 1 Stacja 42  http://stream3.polskieradio.pl:8528
 Jazz24                    Bank 1 Stacja 43  https://live.amperwave.net/direct/ppm-jazz24mp3-ibc1
 Radio Pure Classix        Bank 1 Stacja 44  http://server5.radio-streams.net:8001/live
-Akademickie Radio Centrum Bank 1 Stacja 45  http://radio.centrum.fm/live
+Akadem. Radio Centrum     Bank 1 Stacja 45  http://radio.centrum.fm/live
 Radio 80s Mix Radio       Bank 1 Stacja 46  https://stream.laut.fm/80s-mix-radio
 Euro Radio                Bank 1 Stacja 47  https://stream.laut.fm/euroradio
 Musicfactoryoristan       Bank 1 Stacja 48  https://stream.laut.fm/musicfactoryoristano
