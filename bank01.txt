@@ -58,7 +58,7 @@ Radio Atlantic 80s        Bank 1 Stacja 57  https://chasbo1978.radioca.st/stream
 Radio Weekend FM          Bank 1 Stacja 58  http://stream.weekendfm.pl:8000/weekendfm_256kbs.mp3
 Radio Super FM            Bank 1 Stacja 59  http://stream.super.fm:8000/superfm.mp3
 Off Radio Krakow          Bank 1 Stacja 60  http://stream2.nadaje.com:13332/offradiokrakow
-Radio Konin FM            Bank 1 Stacja 61  https://stream2.technologicznie.net/konin.fm
+RJR France                Bank 1 Stacja 61  https://stream.rjrradio.fr/rjr-dab.flac
 Radio Warszawa            Bank 1 Stacja 62  https://stream2.technologicznie.net/radio_warszawa.mp3
 Radio Hit                 Bank 1 Stacja 63  http://46.170.199.85:8000
 Radio Afera               Bank 1 Stacja 64  http://poznan5-3.radio.pionier.net.pl:8000/afera.mp3
