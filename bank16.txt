@@ -23,8 +23,8 @@ Radio Dance Wave Retro    Bank 16 Stacja 22  https://retro.dancewave.online/retr
 Radio Paradise            Bank 16 Stacja 23  http://stream.radioparadise.com/flacm
 Radio Paradise - Main Mix Bank 16 Stacja 24  https://stream.radioparadise.com/flac
 Radio Paradise - Rock Mix Bank 16 Stacja 25  https://stream.radioparadise.com/rock-flacm
-Radio Paradise - World MixBank 16 Stacja 26  https://stream.radioparadise.com/world-etc-flac
-Radio Paradise - World MixBank 16 Stacja 27  https://stream.radioparadise.com/world-etc-flacm
+Radio Paradise-World Mix  Bank 16 Stacja 26  https://stream.radioparadise.com/world-etc-flac
+Radio Paradise-World Mix  Bank 16 Stacja 27  https://stream.radioparadise.com/world-etc-flacm
 Radio Paradise Global     Bank 16 Stacja 28  http://stream.radioparadise.com/global-flac
 Radio Paradise Mellow     Bank 16 Stacja 29  http://stream.radioparadise.com/mellow-flac
 Radio Paradise Mellow     Bank 16 Stacja 30  http://stream.radioparadise.com/mellow-flacm
@@ -32,16 +32,16 @@ Radio Paradise Rock Mix   Bank 16 Stacja 31  http://stream.radioparadise.com/roc
 Radio Paradise Rock Mix   Bank 16 Stacja 32  http://stream.radioparadise.com/rock-flacm
 Radio Paradise World-Etc BBank 16 Stacja 33  http://stream.radioparadise.com/world-etc-flacm
 Radio Sing Sing Flac      Bank 16 Stacja 34  http://stream.sing-sing-bis.org:8000/singsingFlac
-SECTOR                    Bank 16 Stacja 35  http://89.223.45.5:8000/geny-flac
-SECTOR                    Bank 16 Stacja 36  http://89.223.45.5:8000/next-flac
+SECTOR Geny               Bank 16 Stacja 35  http://89.223.45.5:8000/geny-flac
+SECTOR Next               Bank 16 Stacja 36  http://89.223.45.5:8000/next-flac
 SECTOR                    Bank 16 Stacja 37  http://89.223.45.5:8000/nota-flac
-SECTOR                    Bank 16 Stacja 38  http://89.223.45.5:8000/progressive-flac
-SECTOR                    Bank 16 Stacja 39  http://89.223.45.5:8000/space-flac
-SECTOR                    Bank 16 Stacja 40  http://89.223.45.5:8000/zed-flac
+SECTOR Progressive        Bank 16 Stacja 38  http://89.223.45.5:8000/progressive-flac
+SECTOR Space              Bank 16 Stacja 39  http://89.223.45.5:8000/space-flac
+SECTOR Zed                Bank 16 Stacja 40  http://89.223.45.5:8000/zed-flac
 SUN                       Bank 16 Stacja 41  http://diffusion.lafrap.fr:8000/sun.flac
-Radio Club 80 Euro Hits   Bank 16 Stacja 42  https://stream.radioclub80.cl:8032/stream.euro80flac
-Radio Club 80 Ballads     Bank 16 Stacja 43  https://stream.radioclub80.cl:8042/baladas80.flac
-Radio Club 80 Classic HitsBank 16 Stacja 44  https://stream.radioclub80.cl:8002/clasicos80.flac
+Radio Club80 Euro Hits    Bank 16 Stacja 42  https://stream.radioclub80.cl:8032/stream.euro80flac
+Radio Club80 Ballads      Bank 16 Stacja 43  https://stream.radioclub80.cl:8042/baladas80.flac
+Radio Club80 Classic Hits Bank 16 Stacja 44  https://stream.radioclub80.cl:8002/clasicos80.flac
 Magic Radio               Bank 16 Stacja 45  https://mp3.magic-radio.net/flac
 
 
