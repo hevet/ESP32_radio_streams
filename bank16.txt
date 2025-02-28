@@ -43,8 +43,8 @@ Radio Club80 Euro Hits    Bank 16 Stacja 42  https://stream.radioclub80.cl:8032/
 Radio Club80 Ballads      Bank 16 Stacja 43  https://stream.radioclub80.cl:8042/baladas80.flac
 Radio Club80 Classic Hits Bank 16 Stacja 44  https://stream.radioclub80.cl:8002/clasicos80.flac
 Magic Radio               Bank 16 Stacja 45  https://mp3.magic-radio.net/flac
-
-
+BDPST ROCK                Bank 16 Stacja 46  https://s2.audiostream.hu/bdpstrock_320k
+BesideFM                  Bank 16 Stacja 47  http://5.128.138.8:8000/stream
 
 
 
