@@ -16,7 +16,7 @@ Radio Eska Rock           Bank 1 Stacja 15  http://ic1.smcdn.pl/5380-1.mp3
 Mega Radio                Bank 1 Stacja 16  https://n36a-eu.rcs.revma.com/q18ty3qhwzzuv?rj-ttl=5&rj-tok=AAABi8TMBRwAZDVgPlgQkc9rkQ
 Radio Express FM          Bank 1 Stacja 17  https://stream.rcs.revma.com/yx6cub73kwzuv  
 Radio Nuta                Bank 1 Stacja 18  https://stream.rcs.revma.com/0004tehdxzzuv
-Meloradio Slask           Bank 1 Stacja 19  http://ml01.cdn.eurozet.pl/mel-ktw.mp3
+Meloradio Slask           Bank 1 Stacja 19  http://ml02.cdn.eurozet.pl/mel-ktw.mp3
 PR-1 Polskiego Radia      Bank 1 Stacja 20  http://mp3.polskieradio.pl:8900/;
 PR-2 Polskiego Radia      Bank 1 Stacja 21  http://stream3.polskieradio.pl:8952
 PR-3 Polskiego Radia      Bank 1 Stacja 22  http://mp3.polskieradio.pl:8904/;
