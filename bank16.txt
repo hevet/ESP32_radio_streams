@@ -49,51 +49,51 @@ OpenSky Radio             Bank 16 Stacja 48  https://audio.opensky.radio:8082/fl
 Pi ano                    Bank 16 Stacja 49  http://stream.p-node.org/piano.flac
 Progressieve Rock         Bank 16 Stacja 50  https://progressieverock.nl/flac
 Punkrockers Radio         Bank 16 Stacja 51  https://stream.punkrockers-radio.de:8443/prr.flac
-Pure Radio Channel – VarioBank 16 Stacja 52  https://streamserver.pure-isp.eu/radio/8070/flac
-Pure Radio Channel – Rap &Bank 16 Stacja 53  https://streamserver.pure-isp.eu/radio/8100/flac
-Qabayan FM                Bank 16 Stacja 54  https://c2.radioboss.fm:8478/live
-Radio 80FM Valencia       Bank 16 Stacja 55  http://stream.radio90.fm:2000/stream
-Radio Audiomastering      Bank 16 Stacja 56  https://transliacija.audiomastering.lt/pure
-Radio Bias                Bank 16 Stacja 57  https://admin.biasradio.com/radio/8000/flac
-Radio BluesFlac           Bank 16 Stacja 58  https://streams.radiomast.io/radioblues-flac
-Radio Calico              Bank 16 Stacja 59  http://radio3.radio-calico.com:8080/calico
-Radio Calico (Roon stream)Bank 16 Stacja 60  http://roon.radio-calico.com:8000/roon
-Radio Club 80 Classic     Bank 16 Stacja 61  https://stream.radioclub80.cl:8002/clasicos80.flac
-Radio Club 80 Trance      Bank 16 Stacja 62  https://stream.radioclub80.cl:8052/trance80.flac
-Radio Club 80 Retro       Bank 16 Stacja 63  https://stream.radioclub80.cl:8022/retro80.flac
-Radio Club 80 Euro        Bank 16 Stacja 64  https://stream.radioclub80.cl:8032/stream.euro80flac
-Radio Club 80 Latino      Bank 16 Stacja 65  https://stream.radioclub80.cl:8012/
-Radio Club 80 Ballads     Bank 16 Stacja 66  https://stream.radioclub80.cl:8042/
-Radio Club 80 Movie       Bank 16 Stacja 67  https://stream.radioclub80.cl:8072/peliculas80.flac
-Radio G!                  Bank 16 Stacja 68  http://46.105.110.80:8000/fluxradiogHD
-Radio Haugaland           Bank 16 Stacja 69  http://radioip.no:443/flac
-Radio Jeunes Rheims       Bank 16 Stacja 70  http://stream.rjrradio.fr:8000/rjr-dab.flac
-Radio Juventus            Bank 16 Stacja 71  http://s2.audiostream.hu:8090/juventus_FLAC
-Radio Kemonia             Bank 16 Stacja 72  http://kemoniastreaming2.net:8060/stream
-Radio Krov                Bank 16 Stacja 73  https://radiotalas.dckrov.rs/listen/dckrov/flac?_res_tag_=audio
-Radio Paradise Main Mix   Bank 16 Stacja 74  http://stream.radioparadise.com/flac
-Radio Paradise Mellow Mix Bank 16 Stacja 75  http://stream.radioparadise.com/mellow-flac
-Radio Paradise Rock Mix   Bank 16 Stacja 76  http://stream.radioparadise.com/rock-flac
-Radio Paradise Global Mix Bank 16 Stacja 77  http://stream.radioparadise.com/global-flac
-Radio Remusica            Bank 16 Stacja 78  http://v4.tustreaming.cl:18144/stream
-Radio Random              Bank 16 Stacja 79  http://radiorandom.org:8000/WBJM-FLAC
-Radio Sputnik             Bank 16 Stacja 80  https://radiosputnik.nl:8443/flac
-Radio Summer              Bank 16 Stacja 81  http://flacradio.ru:1110/stream
-Radio X                   Bank 16 Stacja 82  https://mp3.radiox.ch/standard.ogg
-RIO – Rádio Internacional Bank 16 Stacja 83  http://c30.radioboss.fm:8510/autodj
-Riverside Radio           Bank 16 Stacja 84  https://stream.and-stuff.nl:8443/riverside
-Rlocale Radio             Bank 16 Stacja 85  https://rlocale.org/listen/rlocale/rlocale-flac.ogg
-Rondo Klasu               Bank 16 Stacja 86  https://iradio.fi/klasu.flac
-Rondo Klasu Pro           Bank 16 Stacja 87  https://iradio.fi/klasupro.flac
-Roxy Radio                Bank 16 Stacja 88  https://s2.audiostream.hu/roxy_FLAC
-Sanctuary Radio – Dark EleBank 16 Stacja 89  http://66.94.113.88:8000/ultra_hq
-Sanctuary Radio – 80’s AltBank 16 Stacja 90  http://66.94.113.88:8000/retro_ultra_hq
-Sanctuary Radio – Club MixBank 16 Stacja 91  http://66.94.113.88:8000/clubmix_ultra_hq
-SECTOR Classical          Bank 16 Stacja 92  http://89.223.45.5:8000/nota-flac
-SECTOR Progressive        Bank 16 Stacja 93  http://89.223.45.5:8000/progressive-flac
-SECTOR Space              Bank 16 Stacja 94  http://89.223.45.5:8000/space-flac
-SECTOR 80s                Bank 16 Stacja 95  http://89.223.45.5:8000/geny-flac
-SECTOR 90s                Bank 16 Stacja 96  http://89.223.45.5:8000/next-flac
-SECTOR 10s                Bank 16 Stacja 97  http://89.223.45.5:8000/zed-flac
-SECTOR 00s                Bank 16 Stacja 98  http://89.223.45.5:8000/indigo-flac
-SECTOR Jazz               Bank 16 Stacja 99  http://89.223.45.5:8000/jazz-flac
+Radio BluesFlac           Bank 16 Stacja 52  https://streams.radiomast.io/radioblues-flac
+Radio Club 80 Euro        Bank 16 Stacja 53  https://stream.radioclub80.cl:8032/stream.euro80flac
+Radio Club 80 Latino      Bank 16 Stacja 54  https://stream.radioclub80.cl:8012/
+Radio G!                  Bank 16 Stacja 55  http://46.105.110.80:8000/fluxradiogHD
+Radio Jeunes Rheims       Bank 16 Stacja 56  http://stream.rjrradio.fr:8000/rjr-dab.flac
+Radio Juventus            Bank 16 Stacja 57  http://s2.audiostream.hu:8090/juventus_FLAC
+Radio Kemonia             Bank 16 Stacja 58  http://kemoniastreaming2.net:8060/stream
+Radio Paradise Global Mix Bank 16 Stacja 59  http://stream.radioparadise.com/global-flac
+Radio Paradise Main Mix   Bank 16 Stacja 60  http://stream.radioparadise.com/flac
+Radio Paradise Mellow Mix Bank 16 Stacja 61  http://stream.radioparadise.com/mellow-flac
+Radio Paradise Rock Mix   Bank 16 Stacja 62  http://stream.radioparadise.com/rock-flac
+Radio Random              Bank 16 Stacja 63  http://radiorandom.org:8000/WBJM-FLAC
+Radio Remusica            Bank 16 Stacja 64  http://v4.tustreaming.cl:18144/stream
+Radio Sputnik             Bank 16 Stacja 65  https://radiosputnik.nl:8443/flac
+Radio Summer              Bank 16 Stacja 66  http://flacradio.ru:1110/stream
+Rondo Klasu               Bank 16 Stacja 67  https://iradio.fi/klasu.flac
+Rondo Klasu Pro           Bank 16 Stacja 68  https://iradio.fi/klasupro.flac
+Roxy Radio                Bank 16 Stacja 69  https://s2.audiostream.hu/roxy_FLAC
+Sanctuary Radio – 80’s AltBank 16 Stacja 70  http://66.94.113.88:8000/retro_ultra_hq
+Sanctuary Radio – Club MixBank 16 Stacja 71  http://66.94.113.88:8000/clubmix_ultra_hq
+Sanctuary Radio – Dark EleBank 16 Stacja 72  http://66.94.113.88:8000/ultra_hq
+Sing Sing                 Bank 16 Stacja 73  http://stream.sing-sing-bis.org:8000/singsingFlacSansMetadata
+Skylegend Radio           Bank 16 Stacja 74  http://173.212.250.212:8200/flac
+SomaFM ‡§                 Bank 16 Stacja 75  https://hls.somafm.com/hls/groovesalad/FLAC/program.m3u8
+Special Sound Radio       Bank 16 Stacja 76  http://c01.lexycast.de:3420/stream
+Starter FM                Bank 16 Stacja 77  http://10321.cloudrad.io:9054/hd
+Stereo Anime              Bank 16 Stacja 78  http://radio.stereoanime.net:8000/flac
+SUN                       Bank 16 Stacja 79  http://diffusion.lafrap.fr:8000/sun.flac
+SuperStereo 1             Bank 16 Stacja 80  http://icecast.centaury.cl:7570/SuperStereoHiRes1
+SuperStereo 1+            Bank 16 Stacja 81  http://icecast.centaury.cl:7570/SuperStereoHiRes1Plus
+SuperStereo 2             Bank 16 Stacja 82  http://icecast.centaury.cl:7570/SuperStereoHiRes2
+SuperStereo 3             Bank 16 Stacja 83  http://icecast.centaury.cl:7570/SuperStereoHiRes3
+SuperStereo 3+            Bank 16 Stacja 84  http://icecast.centaury.cl:7570/SuperStereoHiRes3Plus
+SuperStereo 4             Bank 16 Stacja 85  http://icecast.centaury.cl:7570/SuperStereoHiRes4
+SuperStereo 4 +           Bank 16 Stacja 86  http://icecast.centaury.cl:7570/SuperStereoHiRes4Plus
+SuperStereo 5             Bank 16 Stacja 87  http://icecast.centaury.cl:7570/SuperStereoHiRes5
+SuperStereo 6             Bank 16 Stacja 88  http://icecast.centaury.cl:7570/SuperStereoHiRes6
+SuperStereo 7             Bank 16 Stacja 89  http://icecast.centaury.cl:7570/SuperStereoHires7
+Sveriges Radio            Bank 16 Stacja 90  https://live1.sr.se/p2-flac
+Sweet FM                  Bank 16 Stacja 91  http://stream.sweetfm.fr:8000/dab-forever-lms
+TEKnival Radio            Bank 16 Stacja 92  https://listen.teknivalradio.com/listen/teknivalradio/radio.flac
+The Cheese                Bank 16 Stacja 93  https://station.thecheese.co.nz/listen/the_cheese/flac
+TrancePulse               Bank 16 Stacja 94  http://stream.trance.ie:8000/tpmixes
+Violent Forces Radio      Bank 16 Stacja 95  https://tuneintoradio1.com:8000/stream.flac
+Violent Forces Radio      Bank 16 Stacja 96  https://tuneintoradio1.com:8010/stream.flac
+WBOR (91.1FM)             Bank 16 Stacja 97  https://azura.wbor.org/listen/wbor/flac
+Zap! FM                   Bank 16 Stacja 98  https://zapstream.nl:8443/1
+Zappa Stream Radio        Bank 16 Stacja 99  https://streams.norbert.de/zappa.flac
