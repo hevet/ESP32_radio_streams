@@ -3,7 +3,7 @@
 AURAL Radio               Bank 16 Stacja 3   http://radio.auralradiokerala.com:1320/stream
 Bailrigg 95.3FM           Bank 16 Stacja 4   https://bfm-stream.lancs.ac.uk/flac
 BDPST Rock Radio          Bank 16 Stacja 5   https://s2.audiostream.hu/bdpstrock_FLAC
-BesideFM                  Bank 16 Stacja 6   https://bdpstrock.hu/live_HiFi.mp3
+BesideFM                  Bank 16 Stacja 6   http://5.128.138.8:8000/stream
 C9 Radio                  Bank 16 Stacja 7   https://stream.c9.fr/c9radio-flac.ogg.m3u
 Calamar Rradio            Bank 16 Stacja 8   http://www.calamarrradio.org:8000/stream
 City Radio                Bank 16 Stacja 9   http://cityradio.ddns.net:8000/cityradio48flac
