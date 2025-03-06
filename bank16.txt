@@ -19,12 +19,12 @@ Danubius Radio           Bank 16 Stacja 18  https://danubiusradio.hu/live_HiFi.m
 DHECTAR Hits             Bank 16 Stacja 19  http://manager.dhectar.fr:1110/stream
 DHECTAR Radio            Bank 16 Stacja 20  http://manager.dhectar.fr:1300/stream
 Djam Radio               Bank 16 Stacja 21  https://stream10.xdevel.com/audio15s976748-2280/stream/icecast.audio
-Flacall Radio – Hit RadioBank 16 Stacja 22  http://flacradio.ru:1070/stream
-Flacall Radio – InternatiBank 16 Stacja 23  http://flacradio.ru:1140/stream
-Flacall Radio – Radio AnnBank 16 Stacja 24  http://flacradio.ru:1090/stream
-Flacall Radio – Radio SumBank 16 Stacja 25  http://flacradio.ru:1110/stream
-ForEver La Radio – ArcachBank 16 Stacja 26  http://stream.sweetfm.fr:8000/flac-forever-arc
-ForEver La Radio – BordeaBank 16 Stacja 27  http://stream.sweetfm.fr:8000/flac-forever-bdx
+Flacall Radio-Hit Radio  Bank 16 Stacja 22  http://flacradio.ru:1070/stream
+Flacall Radio-InternationBank 16 Stacja 23  http://flacradio.ru:1140/stream
+Flacall Radio-Radio AnnusBank 16 Stacja 24  http://flacradio.ru:1090/stream
+Flacall Radio-Radio SummeBank 16 Stacja 25  http://flacradio.ru:1110/stream
+ForEver La Radio-ArcachonBank 16 Stacja 26  http://stream.sweetfm.fr:8000/flac-forever-arc
+ForEver La Radio-BordeauxBank 16 Stacja 27  http://stream.sweetfm.fr:8000/flac-forever-bdx
 Free Music Radio         Bank 16 Stacja 28  http://stream.freemusicradio.nl:8100/stream.oga
 Frequence 3              Bank 16 Stacja 29  https://frequence3.net-radio.fr/frequence3.flac
 Frequence 3 – Loir-et-CheBank 16 Stacja 30  https://frequence3.net-radio.fr/frequence3-fm41.flac
