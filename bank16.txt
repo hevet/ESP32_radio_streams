@@ -27,8 +27,8 @@ ForEver La Radio-ArcachonBank 16 Stacja 26  http://stream.sweetfm.fr:8000/flac-f
 ForEver La Radio-BordeauxBank 16 Stacja 27  http://stream.sweetfm.fr:8000/flac-forever-bdx
 Free Music Radio         Bank 16 Stacja 28  http://stream.freemusicradio.nl:8100/stream.oga
 Frequence 3              Bank 16 Stacja 29  https://frequence3.net-radio.fr/frequence3.flac
-Frequence 3 – Loir-et-CheBank 16 Stacja 30  https://frequence3.net-radio.fr/frequence3-fm41.flac
-Frequence 3 – Touraine   Bank 16 Stacja 31  https://frequence3.net-radio.fr/frequence3-fm37.flac
+Frequence 3-Loir-et-Cher Bank 16 Stacja 30  https://frequence3.net-radio.fr/frequence3-fm41.flac
+Frequence 3-Touraine     Bank 16 Stacja 31  https://frequence3.net-radio.fr/frequence3-fm37.flac
 Frequence 3 Dance        Bank 16 Stacja 32  https://frequence3.net-radio.fr/frequence3dance.flac
 Frequence 3 Gold         Bank 16 Stacja 33  https://frequence3.net-radio.fr/frequence3gold.flac
 Frequence 3 Urban        Bank 16 Stacja 34  https://frequence3.net-radio.fr/frequence3urban.flac
@@ -67,9 +67,9 @@ Radio Summer             Bank 16 Stacja 66  http://flacradio.ru:1110/stream
 Rondo Klasu              Bank 16 Stacja 67  https://iradio.fi/klasu.flac
 Rondo Klasu Pro          Bank 16 Stacja 68  https://iradio.fi/klasupro.flac
 Roxy Radio               Bank 16 Stacja 69  https://s2.audiostream.hu/roxy_FLAC
-Sanctuary Radio – 80’s AlBank 16 Stacja 70  http://66.94.113.88:8000/retro_ultra_hq
-Sanctuary Radio – Club MiBank 16 Stacja 71  http://66.94.113.88:8000/clubmix_ultra_hq
-Sanctuary Radio – Dark ElBank 16 Stacja 72  http://66.94.113.88:8000/ultra_hq
+Sanctuary Radio-80's AlteBank 16 Stacja 70  http://66.94.113.88:8000/retro_ultra_hq
+Sanctuary Radio-Club Mix Bank 16 Stacja 71  http://66.94.113.88:8000/clubmix_ultra_hq
+Sanctuary Radio-Dark ElecBank 16 Stacja 72  http://66.94.113.88:8000/ultra_hq
 Skylegend Radio          Bank 16 Stacja 73  http://173.212.250.212:8200/flac
 Special Sound Radio      Bank 16 Stacja 74  http://c01.lexycast.de:3420/stream
 Sweet FM                 Bank 16 Stacja 75  http://stream.sweetfm.fr:8000/dab-forever-lms
