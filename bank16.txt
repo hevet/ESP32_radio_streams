@@ -8,10 +8,10 @@ C9 Radio                 Bank 16 Stacja 7   https://stream.c9.fr/c9radio-flac.og
 Calamar Rradio           Bank 16 Stacja 8   http://www.calamarrradio.org:8000/stream
 City Radio               Bank 16 Stacja 9   http://cityradio.ddns.net:8000/cityradio48flac
 Club Retro Hits Radio    Bank 16 Stacja 10  http://v4.tustreaming.cl:18156/stream
-Czech Radio ÈRo D-dur    Bank 16 Stacja 11  http://amp.cesnet.cz:8000/cro-d-dur.flac
-Czech Radio ÈRo Jazz     Bank 16 Stacja 12  http://amp.cesnet.cz:8000/cro-jazz.flac
-Czech Radio ÈRo Radio WavBank 16 Stacja 13  http://amp.cesnet.cz:8000/cro-radio-wave.flac
-Czech Radio ÈRo Vltava   Bank 16 Stacja 14  http://amp.cesnet.cz:8000/cro3.flac
+Czech Radio CRo D-dur    Bank 16 Stacja 11  http://amp.cesnet.cz:8000/cro-d-dur.flac
+Czech Radio CRo Jazz     Bank 16 Stacja 12  http://amp.cesnet.cz:8000/cro-jazz.flac
+Czech Radio CRo Radio WavBank 16 Stacja 13  http://amp.cesnet.cz:8000/cro-radio-wave.flac
+Czech Radio CRo Vltava   Bank 16 Stacja 14  http://amp.cesnet.cz:8000/cro3.flac
 Dance Classics Radio     Bank 16 Stacja 15  http://vriezenet.nl:11051/dcflac
 Dance Wave               Bank 16 Stacja 16  http://dancewave.online/dance.flac.ogg
 Dance Wave Retro!        Bank 16 Stacja 17  http://retro.dancewave.online/retrodance.flac.ogg
@@ -26,13 +26,13 @@ Flacall Radio – Radio SumBank 16 Stacja 25  http://flacradio.ru:1110/stream
 ForEver La Radio – ArcachBank 16 Stacja 26  http://stream.sweetfm.fr:8000/flac-forever-arc
 ForEver La Radio – BordeaBank 16 Stacja 27  http://stream.sweetfm.fr:8000/flac-forever-bdx
 Free Music Radio         Bank 16 Stacja 28  http://stream.freemusicradio.nl:8100/stream.oga
-Fréquence 3              Bank 16 Stacja 29  https://frequence3.net-radio.fr/frequence3.flac
-Fréquence 3 – Loir-et-CheBank 16 Stacja 30  https://frequence3.net-radio.fr/frequence3-fm41.flac
-Fréquence 3 – Touraine   Bank 16 Stacja 31  https://frequence3.net-radio.fr/frequence3-fm37.flac
-Fréquence 3 Dance        Bank 16 Stacja 32  https://frequence3.net-radio.fr/frequence3dance.flac
-Fréquence 3 Gold         Bank 16 Stacja 33  https://frequence3.net-radio.fr/frequence3gold.flac
-Fréquence 3 Urban        Bank 16 Stacja 34  https://frequence3.net-radio.fr/frequence3urban.flac
-Fréquence 3 World        Bank 16 Stacja 35  https://frequence3.net-radio.fr/frequence3world.flac
+Frequence 3              Bank 16 Stacja 29  https://frequence3.net-radio.fr/frequence3.flac
+Frequence 3 – Loir-et-CheBank 16 Stacja 30  https://frequence3.net-radio.fr/frequence3-fm41.flac
+Frequence 3 – Touraine   Bank 16 Stacja 31  https://frequence3.net-radio.fr/frequence3-fm37.flac
+Frequence 3 Dance        Bank 16 Stacja 32  https://frequence3.net-radio.fr/frequence3dance.flac
+Frequence 3 Gold         Bank 16 Stacja 33  https://frequence3.net-radio.fr/frequence3gold.flac
+Frequence 3 Urban        Bank 16 Stacja 34  https://frequence3.net-radio.fr/frequence3urban.flac
+Frequence 3 World        Bank 16 Stacja 35  https://frequence3.net-radio.fr/frequence3world.flac
 Futura.FM                Bank 16 Stacja 36  https://futura.fm/stream.ogg?ts=1699656027.325
 H2O                      Bank 16 Stacja 37  http://ice2.ikoula.net-radio.fr/h2oradio.flac
 Haarlem Shuffle Radio    Bank 16 Stacja 38  https://stream.tbmp.nl:8000/haarlemshuffle.flac
