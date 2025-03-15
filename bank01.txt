@@ -29,10 +29,10 @@ Rock Radio Polska         Bank 1 Stacja 26  https://radiostream.pl/tuba9006-1.mp
 181.fm - Highway 181      Bank 1 Stacja 29  https://listen.181fm.com/181-highway_128k.mp3
 TOK FM                    Bank 1 Stacja 30  http://radiostream.pl/tuba10-1.mp3
 Vox FM                    Bank 1 Stacja 31  https://waw.ic.smcdn.pl/3990-1.mp3
-Radio Chillizet           Bank 1 Stacja 32  https://ch01.cdn.eurozet.pl/chi-net.mp3
-Chillizet Soul            Bank 1 Stacja 33  https://zt02.cdn.eurozet.pl/CHISOU.mp3
-Chillizet World Jazz      Bank 1 Stacja 34  https://ch.cdn.eurozet.pl/CHIWJZ.mp3
-Chillizet Salon Polski    Bank 1 Stacja 35  https://ch02.cdn.eurozet.pl/CHIPOL.mp3
+Radio Piekary             Bank 1 Stacja 32  https://stream.rcs.revma.com/0rg0mztk33bwv
+Radio Paradise - Main Mix Bank 1 Stacja 33  https://stream.radioparadise.com/mp3-320
+Radio Chillizet           Bank 1 Stacja 34  https://ch01.cdn.eurozet.pl/chi-net.mp3
+Chillizet Soul            Bank 1 Stacja 35  https://zt02.cdn.eurozet.pl/CHISOU.mp3
 Radio Yanosik             Bank 1 Stacja 36  http://stream.rcs.revma.com/sn11544ebhuvv.m3u
 Radio Yanosik ROCK        Bank 1 Stacja 37  https://n15a-eu.rcs.revma.com/whxxccsdp7uvv
 Radio Yanosik EDM         Bank 1 Stacja 38  https://n11a-eu.rcs.revma.com/s4exa6c6y33vv
