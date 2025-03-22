@@ -27,7 +27,7 @@ ForEver La Radio-ArcachonBank 16 Stacja 26  http://stream.sweetfm.fr:8000/flac-f
 ForEver La Radio-BordeauxBank 16 Stacja 27  http://stream.sweetfm.fr:8000/flac-forever-bdx
 Free Music Radio         Bank 16 Stacja 28  http://stream.freemusicradio.nl:8100/stream.oga
 Frequence 3              Bank 16 Stacja 29  https://frequence3.net-radio.fr/frequence3.flac
-Frequence 3-Loir-et-Cher Bank 16 Stacja 30  https://frequence3.net-radio.fr/frequence3-fm41.flac
+Frequence 3 - Loir-et-CheBank 16 Stacja 30  https://frequence3.net-radio.fr/frequence3-fm41.flac
 Frequence 3-Touraine     Bank 16 Stacja 31  https://frequence3.net-radio.fr/frequence3-fm37.flac
 Frequence 3 Dance        Bank 16 Stacja 32  https://frequence3.net-radio.fr/frequence3dance.flac
 Frequence 3 Gold         Bank 16 Stacja 33  https://frequence3.net-radio.fr/frequence3gold.flac
