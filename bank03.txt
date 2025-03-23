@@ -1,6 +1,6 @@
 Centrum Kalisz            Bank 3 Stacja 1   http://shot2.inten.pl:8888/rcfm.mp3
 eM Katowice               Bank 3 Stacja 2   http://194.181.177.253:8000/
-Katolickie Radio Rzeszow BBank 3 Stacja 3   http://62.133.128.18:8040/;
+Katolickie Radio Rzeszow  Bank 3 Stacja 3   http://62.133.128.18:8040/;
 Konin FM                  Bank 3 Stacja 4   http://stream2.technologicznie.net:80/konin.fm
 Off Radio Krakow          Bank 3 Stacja 5   http://stream4.nadaje.com:13332/offradiokrakow
 Olsztyn UWM FM            Bank 3 Stacja 6   http://213.184.18.156:8000/
