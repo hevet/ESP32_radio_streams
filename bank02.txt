@@ -1,99 +1,99 @@
-90s90s The BEAT           Bank 2 Stacja 1   https://streams.90s90s.de/main/mp3-192/
-Radio Top 80              Bank 2 Stacja 2   http://top80.pl:8000/listen.mp3
-Radio Italo Dance         Bank 2 Stacja 3   http://radio.italodance.pl:7694
+90s90s Dance             Bank 2 Stacja 1   https://streams.90s90s.de/eurodance/mp3-192/
+90s90s Grunge            Bank 2 Stacja 2   https://streams.90s90s.de/grunge/mp3-192/liveradio/
+90s90s Hits              Bank 2 Stacja 3   https://streams.90s90s.de/pop/mp3-192/
+90s90s The BEAT          Bank 2 Stacja 4   https://streams.90s90s.de/main/mp3-192/
+Bayer FM                 Bank 2 Stacja 5   https://streaming.radio5.com.pl:8888/bayerfm
+Centrum Kalisz           Bank 2 Stacja 6   http://shot2.inten.pl:8888/rcfm.mp3
+Czech Radio CRo D-dur    Bank 2 Stacja 7   http://amp.cesnet.cz:8000/cro-d-dur-256.ogg
+Czech Radio CRo Jazz     Bank 2 Stacja 8   http://amp.cesnet.cz:8000/cro-jazz-256.ogg
+Czech Radio CRo Plus     Bank 2 Stacja 9   http://amp.cesnet.cz:8000/cro-plus-256.ogg
+Czech Radio CRo Vltava   Bank 2 Stacja 10  http://amp.cesnet.cz:8000/cro3-256.ogg
+Czech Radio CRo Wave     Bank 2 Stacja 11  http://amp.cesnet.cz:8000/cro-radio-wave-256.ogg
+Doxa FM                  Bank 2 Stacja 12  http://shot.inten.pl:10000/
+Elka Glogow              Bank 2 Stacja 13  http://live.elka.pl:8000/miedziowe.pl
+eM Katowice              Bank 2 Stacja 14  http://194.181.177.253:8000/
+FTB.net-Club             Bank 2 Stacja 15  http://play.radioftb.net:8000
+FTB.net-Disco Polo       Bank 2 Stacja 16  http://play.radioftb.net:8022
+FTB.net-Flash FM         Bank 2 Stacja 17  http://play.radioftb.net:8008
+FTB.net-Rap Music        Bank 2 Stacja 18  http://play.radioftb.net:8028
+FTB.net-Retro DJ         Bank 2 Stacja 19  http://play.radioftb.net:8016
+InterStacja              Bank 2 Stacja 20  http://4stream.pl:18322
+InterStacja Club         Bank 2 Stacja 21  http://4stream.pl:18268
+InterStacja Disco Polo   Bank 2 Stacja 22  http://4stream.pl:18274
+InterStacja Eurodance    Bank 2 Stacja 23  http://4stream.pl:18180
+InterStacja Najnowsze    Bank 2 Stacja 24  http://4stream.pl:18410
+InterStacja Oldies       Bank 2 Stacja 25  http://4stream.pl:18290
+Italo Dance              Bank 2 Stacja 26  http://radio.italodance.pl:7694
+Italodance Neo80s        Bank 2 Stacja 27  http://neo80s.italodance.pl:7750
+Mbox                     Bank 2 Stacja 28  http://panel.radiombox.pl/radio/8000/RadioMbox320
+Mbox Club                Bank 2 Stacja 29  http://panel.radiombox.pl/radio/8070/Club320kbps
+Mbox Disco Polo          Bank 2 Stacja 30  http://panel.radiombox.pl/radio/8030/DiscoPolo320kbps
+Mbox Gold Hits           Bank 2 Stacja 31  http://panel.radiombox.pl/radio/8040/GoldHits320kbps
+Mbox Rock                Bank 2 Stacja 32  http://panel.radiombox.pl/radio/8090/Rock320kbps
+Mirage Italo Dance       Bank 2 Stacja 33  https://ssl-1.radiohost.pl:9569
+Mirage Prywatka          Bank 2 Stacja 34  https://ssl-1.radiohost.pl:7214
+Mirage Space             Bank 2 Stacja 35  https://ssl-1.radiohost.pl:9563
+Move Da House            Bank 2 Stacja 36  http://uk7.internet-radio.com:8000/
+Muzyczne Radio Best      Bank 2 Stacja 37  https://stream.rcs.revma.com/umvz3dg5072vv
+Muzyczne Radio HitPly    Bank 2 Stacja 38  https://stream.rcs.revma.com/yntzhng5072vv
+Nasze Radio              Bank 2 Stacja 39  https://online.nasze.fm:8443/stream
+Off Radio Krakow         Bank 2 Stacja 40  http://stream4.nadaje.com:13332/offradiokrakow
+Phever Media Live        Bank 2 Stacja 41  http://uk1.internet-radio.com:8200/live
+Planeta FM               Bank 2 Stacja 42  https://pl02.cdn.eurozet.pl/pla-net.mp3
+POP Radio                Bank 2 Stacja 43  http://stream1.popradio.pl:9000/
+Radio 7                  Bank 2 Stacja 44  http://stream.radio7.pl:8000
+Radio Alex               Bank 2 Stacja 45  http://proxima.shoutca.st:9045/stream
+Radio Bogoria            Bank 2 Stacja 46  http://s6.radiohost.pl:8888
+Radio Cdis               Bank 2 Stacja 47  https://stream.laut.fm/radiocdis
+Radio Dzwiek             Bank 2 Stacja 48  http://s3.slotex.pl:7408/;
+Radio Energy 2000        Bank 2 Stacja 49  http://energy2000.radioparty.pl:8005/
+Radio Fama               Bank 2 Stacja 50  http://stream2.nadaje.com:8076/;
+Radio Fara               Bank 2 Stacja 51  http://62.133.128.22:8000/relay
+Radio FIAT               Bank 2 Stacja 52  http://stream2.nadaje.com:8056/;
+Radio GAY FM             Bank 2 Stacja 53  http://icepool.silvacast.com/GAYFM.mp3
+Radio Gdansk             Bank 2 Stacja 54  http://stream.task.gda.pl:8000/rg1
+Radio Gniezno            Bank 2 Stacja 55  http://stream3.nadaje.com:8012/;
+Radio Imperium           Bank 2 Stacja 56  https://stream.radioimperium.pl:8443/stream
+Radio Italo Dance        Bank 2 Stacja 57  http://radio.italodance.pl:7694
+Radio Italo4you          Bank 2 Stacja 58  http://s0.radiohost.pl:8018/stream
+Radio Jura               Bank 2 Stacja 59  http://streams2.radiojura.com.pl:8000/jura_128kbps_stereo.mp3
+Radio Kaszebe            Bank 2 Stacja 60  http://stream2.nadaje.com:8060/;
+Radio Koszalin           Bank 2 Stacja 61  http://91.232.4.33:9680/stream
+Radio Laserbeat FM       Bank 2 Stacja 62  http://stream.laut.fm/laserbeat-fm
+Radio LEM FM             Bank 2 Stacja 63  http://n13.radiojar.com/2fa0gbhr9bhvv
+Radio Mirage             Bank 2 Stacja 64  http://s0.radiohost.pl:9569/;
+Radio MRS                Bank 2 Stacja 65  http://145.239.26.146:7494/
+Radio Muza 80            Bank 2 Stacja 66  http://91.232.4.33:9011/stream
+Radio Muzo FM            Bank 2 Stacja 67  http://stream.rcs.revma.com/1nnezw8qz7zuv.m3u
+Radio Nedds24 Club       Bank 2 Stacja 68  http://s1.nedds24.pl:8110/radio.mp3
+Radio Nedds24 Disco      Bank 2 Stacja 69  http://s1.nedds24.pl:8120/radio.mp3
+Radio Nedds24.pl         Bank 2 Stacja 70  http://s1.nedds24.pl:8100/radio.mp3
+Radio One Live 80s&90    Bank 2 Stacja 71  http://91.232.4.33:8198/stream
+Radio Parada             Bank 2 Stacja 72  http://stream4.nadaje.com:15274/live
+Radio Park FM            Bank 2 Stacja 73  http://sluchaj.radiopark.com.pl:8048/
+Radio Pasja Chill        Bank 2 Stacja 74  http://91.232.4.33:8108/stream2
+Radio Pasja Dance        Bank 2 Stacja 75  http://91.232.4.33:9466/stream2
+Radio Pasja Glowna       Bank 2 Stacja 76  http://91.232.4.33:8049/stream2
+Radio Pasja Klubowa      Bank 2 Stacja 77  http://91.232.4.33:9460/stream2
+Radio Pasja Klubowa      Bank 2 Stacja 78  http://91.232.4.33:9460/stream2
+Radio Pasja POP          Bank 2 Stacja 79  http://91.232.4.33:8084/stream2
+Radio Pasja Relaks       Bank 2 Stacja 80  http://91.232.4.33:8102/stream2
+Radio RAM                Bank 2 Stacja 81  http://stream4.nadaje.com:9220/ram.m3u
+Radio RAM Wroclaw        Bank 2 Stacja 82  http://stream4.nadaje.com:9220/ram.m3u
+Radio Sud                Bank 2 Stacja 83  http://stream2.nadaje.com:8012/;
+Radio Top 80             Bank 2 Stacja 84  http://top80.pl:8000/listen.mp3
+Radio Top 80             Bank 2 Stacja 85  http://radio.top80.pl:9940
+Radio Weekend            Bank 2 Stacja 86  http://stream.weekendfm.pl:8000/weekendfm_najlepsza.mp3
+Rekord Radio             Bank 2 Stacja 87  http://stream4.nadaje.com:8308/ostrowiec
+RJR France               Bank 2 Stacja 88  https://stream.rjrradio.fr/rjr-dab.flac
+Rockserwis.fm            Bank 2 Stacja 89  http://stream9.nadaje.com:8002/live
+Toksyna FM               Bank 2 Stacja 90  http://s01.toksyna.fm:8000/stream
+Trendy Radio             Bank 2 Stacja 91  http://stream.trendyradio.pl:8000/h.m3u
+Twoja Polska Stacja      Bank 2 Stacja 92  http://sluchaj.twojapolskastacja.pl:8068/listen.pls
+Twoje Radio AM           Bank 2 Stacja 93  http://s1.slotex.pl:7424/;
 
-Radio Mirage              Bank 2 Stacja 4   http://s0.radiohost.pl:9569/;
-Radio GAY FM              Bank 2 Stacja 5   http://icepool.silvacast.com/GAYFM.mp3
-Radio Laserbeat FM        Bank 2 Stacja 6   http://stream.laut.fm/laserbeat-fm
-90s90s Dance              Bank 2 Stacja 7   https://streams.90s90s.de/eurodance/mp3-192/
-90s90s Grunge             Bank 2 Stacja 8   https://streams.90s90s.de/grunge/mp3-192/liveradio/
-90s90s Hits               Bank 2 Stacja 9   https://streams.90s90s.de/pop/mp3-192/
-Radio Pasja Glowna        Bank 2 Stacja 10  http://91.232.4.33:8049/stream2
-Radio Pasja POP           Bank 2 Stacja 11  http://91.232.4.33:8084/stream2
-Radio Pasja Klubowa       Bank 2 Stacja 12  http://91.232.4.33:9460/stream2
-Radio Pasja Chill         Bank 2 Stacja 13  http://91.232.4.33:8108/stream2
-Radio Pasja Relaks        Bank 2 Stacja 14  http://91.232.4.33:8102/stream2
-Radio Pasja Klubowa       Bank 2 Stacja 15  http://91.232.4.33:9460/stream2
-Radio Pasja Dance         Bank 2 Stacja 16  http://91.232.4.33:9466/stream2
-Radio RAM                 Bank 2 Stacja 17  http://stream4.nadaje.com:9220/ram.m3u
-
-Trendy Radio              Bank 2 Stacja 18  http://stream.trendyradio.pl:8000/h.m3u
-Twoja Polska Stacja       Bank 2 Stacja 19  http://sluchaj.twojapolskastacja.pl:8068/listen.pls
-Radio Muzo FM             Bank 2 Stacja 20  http://stream.rcs.revma.com/1nnezw8qz7zuv.m3u
-Radio Alex                Bank 2 Stacja 21  http://proxima.shoutca.st:9045/stream
-Rockserwis.fm             Bank 2 Stacja 22  http://stream9.nadaje.com:8002/live
-Toksyna FM                Bank 2 Stacja 23  http://s01.toksyna.fm:8000/stream
-Twoje Radio AM            Bank 2 Stacja 24  http://s1.slotex.pl:7424/;
-Radio Weekend             Bank 2 Stacja 25  http://stream.weekendfm.pl:8000/weekendfm_najlepsza.mp3
-Radio Jura                Bank 2 Stacja 26  http://streams2.radiojura.com.pl:8000/jura_128kbps_stereo.mp3
-Radio FIAT                Bank 2 Stacja 27  http://stream2.nadaje.com:8056/;
-Bayer FM                  Bank 2 Stacja 28  https://streaming.radio5.com.pl:8888/bayerfm
-Radio Gdansk              Bank 2 Stacja 29  http://stream.task.gda.pl:8000/rg1
-Radio Kaszebe             Bank 2 Stacja 30  http://stream2.nadaje.com:8060/;
 
 
-Radio Imperium            Bank 2 Stacja 31  https://stream.radioimperium.pl:8443/stream
-Elka Glogow               Bank 2 Stacja 32  http://live.elka.pl:8000/miedziowe.pl
 
-Radio Gniezno             Bank 2 Stacja 33  http://stream3.nadaje.com:8012/;
-Radio Bogoria             Bank 2 Stacja 34  http://s6.radiohost.pl:8888
-Centrum Kalisz            Bank 2 Stacja 35  http://shot2.inten.pl:8888/rcfm.mp3
-eM Katowice               Bank 2 Stacja 36  http://194.181.177.253:8000/
-Radio Park FM             Bank 2 Stacja 37  http://sluchaj.radiopark.com.pl:8048/
-Radio Sud                 Bank 2 Stacja 38  http://stream2.nadaje.com:8012/;
-Radio Fama                Bank 2 Stacja 39  http://stream2.nadaje.com:8076/;
-Radio Koszalin            Bank 2 Stacja 40  http://91.232.4.33:9680/stream
-Off Radio Krakow          Bank 2 Stacja 41  http://stream4.nadaje.com:13332/offradiokrakow
 
-Radio Parada              Bank 2 Stacja 42  http://stream4.nadaje.com:15274/live
-Radio 7                   Bank 2 Stacja 43  http://stream.radio7.pl:8000
-Doxa FM                   Bank 2 Stacja 44  http://shot.inten.pl:10000/
-Rekord Radio              Bank 2 Stacja 45  http://stream4.nadaje.com:8308/ostrowiec
-POP Radio                 Bank 2 Stacja 46  http://stream1.popradio.pl:9000/
-Radio Fara                Bank 2 Stacja 47  http://62.133.128.22:8000/relay
-Nasze Radio               Bank 2 Stacja 48  https://online.nasze.fm:8443/stream
-Radio Energy 2000         Bank 2 Stacja 49  http://energy2000.radioparty.pl:8005/
-Radio RAM Wroclaw         Bank 2 Stacja 50  http://stream4.nadaje.com:9220/ram.m3u
-Phever Media Live         Bank 2 Stacja 51  http://uk1.internet-radio.com:8200/live
-Move Da House             Bank 2 Stacja 52  http://uk7.internet-radio.com:8000/
-Radio LEM FM              Bank 2 Stacja 53  http://n13.radiojar.com/2fa0gbhr9bhvv
-Radio MRS                 Bank 2 Stacja 54  http://145.239.26.146:7494/
-Muzyczne Radio Best       Bank 2 Stacja 55  https://stream.rcs.revma.com/umvz3dg5072vv
-Muzyczne Radio HitPly     Bank 2 Stacja 56  https://stream.rcs.revma.com/yntzhng5072vv
-Planeta FM                Bank 2 Stacja 57  https://pl02.cdn.eurozet.pl/pla-net.mp3
-Radio One Live 80s&90     Bank 2 Stacja 58  http://91.232.4.33:8198/stream
-Radio Top 80              Bank 2 Stacja 59  http://radio.top80.pl:9940
-FTB.net-Club              Bank 2 Stacja 60  http://play.radioftb.net:8000
-FTB.net-Disco Polo        Bank 2 Stacja 61  http://play.radioftb.net:8022
-FTB.net-Flash FM          Bank 2 Stacja 62  http://play.radioftb.net:8008
-FTB.net-Rap Music         Bank 2 Stacja 63  http://play.radioftb.net:8028
-FTB.net-Retro DJ          Bank 2 Stacja 64  http://play.radioftb.net:8016
-InterStacja               Bank 2 Stacja 65  http://4stream.pl:18322
-InterStacja Club          Bank 2 Stacja 66  http://4stream.pl:18268
-InterStacja Disco Polo    Bank 2 Stacja 67  http://4stream.pl:18274
-InterStacja Eurodance     Bank 2 Stacja 68  http://4stream.pl:18180
-InterStacja Najnowsze     Bank 2 Stacja 69  http://4stream.pl:18410
-InterStacja Oldies        Bank 2 Stacja 70  http://4stream.pl:18290
-Mbox                      Bank 2 Stacja 71  http://panel.radiombox.pl/radio/8000/RadioMbox320
-Mbox Club                 Bank 2 Stacja 72  http://panel.radiombox.pl/radio/8070/Club320kbps
-Mbox Disco Polo           Bank 2 Stacja 73  http://panel.radiombox.pl/radio/8030/DiscoPolo320kbps
-Mbox Gold Hits            Bank 2 Stacja 74  http://panel.radiombox.pl/radio/8040/GoldHits320kbps
-Mbox Rock                 Bank 2 Stacja 75  http://panel.radiombox.pl/radio/8090/Rock320kbps
-Mirage Italo Dance        Bank 2 Stacja 76  https://ssl-1.radiohost.pl:9569
-Mirage Prywatka           Bank 2 Stacja 77  https://ssl-1.radiohost.pl:7214
-Mirage Space              Bank 2 Stacja 78  https://ssl-1.radiohost.pl:9563
-Radio Cdis                Bank 2 Stacja 79  https://stream.laut.fm/radiocdis
-Radio Nedds24.pl          Bank 2 Stacja 80  http://s1.nedds24.pl:8100/radio.mp3
-Radio Nedds24 Club        Bank 2 Stacja 81  http://s1.nedds24.pl:8110/radio.mp3
-Radio Nedds24 Disco       Bank 2 Stacja 82  http://s1.nedds24.pl:8120/radio.mp3
-Radio Italo4you           Bank 2 Stacja 83  http://s0.radiohost.pl:8018/stream
-Italo Dance               Bank 2 Stacja 84  http://radio.italodance.pl:7694
-Italodance Neo80s         Bank 2 Stacja 85  http://neo80s.italodance.pl:7750
-Radio Muza 80             Bank 2 Stacja 86  http://91.232.4.33:9011/stream
-RJR France                Bank 2 Stacja 87  https://stream.rjrradio.fr/rjr-dab.flac
-Radio Dzwiek              Bank 2 Stacja 88  http://s3.slotex.pl:7408/;
-Czech Radio CRo Vltava    Bank 2 Stacja 89  http://amp.cesnet.cz:8000/cro3-256.ogg
-Czech Radio CRo D-dur     Bank 2 Stacja 90  http://amp.cesnet.cz:8000/cro-d-dur-256.ogg
-Czech Radio CRo Jazz      Bank 2 Stacja 91  http://amp.cesnet.cz:8000/cro-jazz-256.ogg
-Czech Radio CRo Wave      Bank 2 Stacja 92  http://amp.cesnet.cz:8000/cro-radio-wave-256.ogg
-Czech Radio CRo Plus      Bank 2 Stacja 93  http://amp.cesnet.cz:8000/cro-plus-256.ogg
+
