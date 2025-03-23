@@ -35,7 +35,7 @@ Rock Chicks Radio        Bank 12 Stacja 34  http://178.33.33.176:8060/
 GenXRock                 Bank 12 Stacja 35  http://s10.citrus3.com:8124/stream
 La Grosse Radio Rock Alt Bank 12 Stacja 36  http://hd.lagrosseradio.info:8000/lagrosseradio-rock-192.mp3
 Mannard Metal Radio      Bank 12 Stacja 37  http://72.239.233.53:6969/high.mp3
-Baars classic Rock       Bank 12 Stacja 38  http://server-66.stream-server.nl:8840/
+Mbox Rock                Bank 12 Stacja 38  http://panel.radiombox.pl/radio/8090/Rock320kbps
 La Grosse Radio Metal    Bank 12 Stacja 39  http://hd.lagrosseradio.info:8000/lagrosseradio-metal-192.mp3
 Anthology Webradio Blues Bank 12 Stacja 40  http://listen.shoutcast.com/a-ablues
 KINK No Alternative      Bank 12 Stacja 41  http://playerservices.streamtheworld.com/api/livestream-redirect/KINK.mp3
