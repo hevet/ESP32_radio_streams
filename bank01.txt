@@ -1,5 +1,5 @@
 Antyradio                 Bank 1 Stacja 1   https://an01.cdn.eurozet.pl/ant-waw.mp3
-Radio Zlote Przeboje      Bank 1 Stacja 2   https://radiostream.pl/tuba8910-1.mp3
+Radio Zlote Przeboje      Bank 1 Stacja 2   http://radiostream.pl/tuba8902-1.mp3
 RMF FM                    Bank 1 Stacja 3   http://195.150.20.7/rmf_fm
 Radio Italo 4 You         Bank 1 Stacja 4   http://s0.radiohost.pl:8018/stream
 Radio ZET                 Bank 1 Stacja 5   https://zt04.cdn.eurozet.pl/ZETPAR.mp3?redirected=04
@@ -41,7 +41,7 @@ Chillizet World Jazz      Bank 1 Stacja 40  https://ch.cdn.eurozet.pl/CHIWJZ.mp3
 Chillizet Salon Polski    Bank 1 Stacja 41  https://ch02.cdn.eurozet.pl/CHIPOL.mp3
 Radio Piekary             Bank 1 Stacja 42  https://stream.rcs.revma.com/0rg0mztk33bwv
 Muzyczne Radio            Bank 1 Stacja 43  https://stream.rcs.revma.com/gzwc1xcq042vv
-RMF Maxxx                 Bank 1 Stacja 44  https://rs6-krk2.rmfstream.pl/rmf_maxxx
+RMF Maxx Bydgoszcz        Bank 1 Stacja 44  http://rmfstream1.interia.pl:80/rmf_maxxx_byd
 Radio RMF 24              Bank 1 Stacja 45  http://195.150.20.7/rmf_24
 Radio Top 80              Bank 1 Stacja 46  http://radio.top80.pl:9940
 Radio TOK FM              Bank 1 Stacja 47  http://stream11.radioagora.pl/tuba10-1.mp3
