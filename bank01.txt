@@ -48,7 +48,7 @@ Radio TOK FM              Bank 1 Stacja 47  http://stream11.radioagora.pl/tuba10
 Bydgoszcz FM              Bank 1 Stacja 48  http://217.182.76.63:8000/bfmweb
 Bydgoszcz FM Gold         Bank 1 Stacja 49  http://217.182.76.63:8000/bfmgold
 Bydgoszcz FM Rock         Bank 1 Stacja 50  http://217.182.76.63:8000/bfmrock
-BBC Radio 1               Bank 1 Stacja 51  https://a.files.bbci.co.uk/ms6/live/3441A116-B12E-4D2F-ACA8-C1984642FA4B/audio/simulcast/hls/nonuk/audio_syndication_low_sbr_v1/cfs/bbc_radio_one.m3u8
+BBC Radio 1               Bank 1 Stacja 51  http://as-hls-ww-live.akamaized.net/pool_01505109/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d320000.norewind.m3u8
 KHOP 95.1 Oakdale, CA     Bank 1 Stacja 52  http://14923.live.streamtheworld.com:3690/KHOPFM_SC
 WHTZ-FM 100.3 New York    Bank 1 Stacja 53  https://cloud.revma.ihrhls.com/zc2509?rj-org=n02b-e2&rj-ttl=5&rj-tok=AAABmm4Ob-YAEKtsUh3A0qklwg
 KIIS-FM 102.7             Bank 1 Stacja 54  https://cloud.revma.ihrhls.com/zc185?rj-org=n0ab-e2&rj-ttl=5&rj-tok=AAABmnLV120AQdeMFaP26yKblQ
